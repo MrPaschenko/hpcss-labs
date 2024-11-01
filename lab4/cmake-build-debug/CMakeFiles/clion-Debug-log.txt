@@ -1,0 +1,4 @@
+"/Users/mrpaschenko/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.8770.66/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=/Users/mrpaschenko/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.8770.66/CLion.app/Contents/bin/ninja/mac/ninja" -DCMAKE_C_COMPILER=/opt/homebrew/Cellar/gcc/13.1.0/bin/gcc-13 -DCMAKE_CXX_COMPILER=/opt/homebrew/Cellar/gcc/13.1.0/bin/gcc-13 -G Ninja -S /Users/mrpaschenko/Developer/hpcss-labs/lab4 -B /Users/mrpaschenko/Developer/hpcss-labs/lab4/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/mrpaschenko/Developer/hpcss-labs/lab4/cmake-build-debug

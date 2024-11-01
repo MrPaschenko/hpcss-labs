@@ -1,0 +1,15 @@
+/Users/mrpaschenko/Developer/hpcss-labs/lab2/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1
+/Users/mrpaschenko/Developer/hpcss-labs/lab2/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.deps.json
+/Users/mrpaschenko/Developer/hpcss-labs/lab2/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.runtimeconfig.json
+/Users/mrpaschenko/Developer/hpcss-labs/lab2/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.dll
+/Users/mrpaschenko/Developer/hpcss-labs/lab2/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.pdb
+/Users/mrpaschenko/Developer/hpcss-labs/lab2/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.csproj.AssemblyReference.cache
+/Users/mrpaschenko/Developer/hpcss-labs/lab2/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mrpaschenko/Developer/hpcss-labs/lab2/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/mrpaschenko/Developer/hpcss-labs/lab2/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.AssemblyInfo.cs
+/Users/mrpaschenko/Developer/hpcss-labs/lab2/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/mrpaschenko/Developer/hpcss-labs/lab2/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.dll
+/Users/mrpaschenko/Developer/hpcss-labs/lab2/ConsoleApp1/obj/Debug/net7.0/refint/ConsoleApp1.dll
+/Users/mrpaschenko/Developer/hpcss-labs/lab2/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.pdb
+/Users/mrpaschenko/Developer/hpcss-labs/lab2/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.genruntimeconfig.cache
+/Users/mrpaschenko/Developer/hpcss-labs/lab2/ConsoleApp1/obj/Debug/net7.0/ref/ConsoleApp1.dll
